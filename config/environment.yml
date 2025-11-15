@@ -1,0 +1,17 @@
+﻿name: ai_generated_users
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - google-cloud-firestore==2.16.0
+      - google-auth==2.34.0
+      - requests==2.32.3
+      - tenacity==8.3.0
+      - pandas==2.2.2
+      - numpy==1.26.4
+      - matplotlib==3.8.4
+      - tqdm==4.67.1
+      - openai==1.51.2
+      - anthropic==0.40.0
