@@ -1,0 +1,1 @@
+Use your own service account JSON here. DO NOT COMMIT secrets.

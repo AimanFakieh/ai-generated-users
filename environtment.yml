@@ -1,0 +1,29 @@
+name: ai-generated-users
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pandas>=2.2
+  - numpy>=1.26
+  - matplotlib>=3.8
+  - tqdm>=4.66
+  - pyyaml>=6.0
+  - ipykernel
+  - pytz
+  - pip:
+      # Cloud + auth
+      - google-cloud-firestore>=2.16
+      - google-auth>=2.30
+      - google-cloud-core>=2.4
+
+      # LLM clients (enable as needed)
+      - openai>=1.47
+      - anthropic>=0.34
+      - huggingface_hub>=0.24
+
+      # Utilities
+      - requests>=2.32
+      - tenacity>=8.2
+      - python-dotenv>=1.0

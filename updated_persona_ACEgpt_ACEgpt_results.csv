@@ -1,0 +1,1297 @@
+user id,Week number,Adherence_propensity,Age_band,BMI,Budjet_SAR_per_day,Cooking_skill,Current_fitness_level,Days_per_week,Primary_goal,Sex,Sleep_hours
+P01,Week_2025_46,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,6.86
+P01,Week_2025_47,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2025_48,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2025_49,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2025_50,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2025_51,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2025_52,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_1,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_10,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_11,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_12,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_13,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_14,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_15,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_16,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_17,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_18,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_19,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_2,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_20,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_21,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_22,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_23,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_24,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_25,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_26,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_27,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_28,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_29,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_3,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_30,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_31,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_32,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_33,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_34,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_35,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_36,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_37,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_38,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_39,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_4,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_40,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_41,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_42,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_43,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_44,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_45,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_46,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_47,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_5,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_6,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_7,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_8,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P01,Week_2026_9,0.75,18–29,Normal,,beginner,Beginner,4,muscle_gain,M,7
+P02,Week_2025_46,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.81
+P02,Week_2025_47,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2025_48,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2025_49,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2025_50,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2025_51,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2025_52,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_1,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_10,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_11,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_12,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_13,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_14,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_15,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_16,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_17,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_18,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_19,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_2,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_20,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_21,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_22,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_23,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_24,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_25,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_26,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_27,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_28,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_29,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_3,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_30,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_31,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_32,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_33,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_34,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_35,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_36,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_37,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_38,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_39,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_4,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_40,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_41,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_42,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_43,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_44,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_45,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_46,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_47,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_5,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_6,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_7,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_8,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P02,Week_2026_9,0.65,18–29,Underweight,,beginner,Beginner,4,muscle_gain,F,7.5
+P03,Week_2025_46,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.64
+P03,Week_2025_47,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2025_48,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2025_49,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2025_50,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2025_51,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2025_52,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_1,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_10,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_11,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_12,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_13,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_14,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_15,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_16,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_17,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_18,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_19,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_2,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_20,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_21,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_22,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_23,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_24,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_25,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_26,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_27,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_28,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_29,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_3,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_30,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_31,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_32,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_33,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_34,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_35,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_36,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_37,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_38,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_39,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_4,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_40,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_41,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_42,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_43,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_44,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_45,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_46,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_47,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_5,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_6,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_7,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_8,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P03,Week_2026_9,0.6,18–29,Overweight,,beginner,Beginner,3,fat_loss,M,6.5
+P04,Week_2025_46,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,6.98
+P04,Week_2025_47,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2025_48,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2025_49,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2025_50,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2025_51,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2025_52,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_1,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_10,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_11,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_12,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_13,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_14,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_15,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_16,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_17,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_18,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_19,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_2,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_20,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_21,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_22,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_23,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_24,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_25,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_26,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_27,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_28,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_29,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_3,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_30,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_31,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_32,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_33,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_34,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_35,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_36,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_37,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_38,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_39,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_4,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_40,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_41,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_42,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_43,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_44,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_45,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_46,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_47,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_5,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_6,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_7,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_8,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P04,Week_2026_9,0.8,18–29,Normal,,intermediate,Intermediate,5,recomposition,F,7
+P05,Week_2025_46,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,5.87
+P05,Week_2025_47,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2025_48,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2025_49,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2025_50,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2025_51,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2025_52,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_1,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_10,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_11,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_12,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_13,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_14,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_15,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_16,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_17,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_18,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_19,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_2,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_20,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_21,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_22,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_23,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_24,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_25,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_26,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_27,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_28,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_29,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_3,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_30,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_31,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_32,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_33,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_34,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_35,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_36,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_37,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_38,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_39,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_4,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_40,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_41,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_42,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_43,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_44,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_45,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_46,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_47,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_5,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_6,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_7,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_8,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P05,Week_2026_9,0.55,18–29,Obese I,,beginner,Beginner,4,fat_loss,M,6
+P06,Week_2025_46,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.39
+P06,Week_2025_47,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2025_48,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2025_49,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2025_50,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2025_51,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2025_52,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_1,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_10,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_11,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_12,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_13,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_14,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_15,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_16,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_17,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_18,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_19,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_2,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_20,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_21,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_22,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_23,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_24,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_25,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_26,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_27,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_28,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_29,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_3,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_30,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_31,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_32,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_33,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_34,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_35,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_36,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_37,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_38,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_39,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_4,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_40,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_41,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_42,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_43,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_44,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_45,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_46,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_47,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_5,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_6,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_7,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_8,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P06,Week_2026_9,0.78,18–29,Normal,,intermediate,Intermediate,5,endurance,F,7.5
+P07,Week_2025_46,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.56
+P07,Week_2025_47,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2025_48,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2025_49,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2025_50,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2025_51,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2025_52,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_1,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_10,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_11,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_12,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_13,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_14,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_15,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_16,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_17,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_18,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_19,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_2,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_20,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_21,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_22,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_23,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_24,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_25,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_26,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_27,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_28,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_29,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_3,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_30,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_31,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_32,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_33,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_34,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_35,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_36,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_37,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_38,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_39,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_4,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_40,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_41,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_42,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_43,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_44,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_45,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_46,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_47,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_5,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_6,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_7,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_8,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P07,Week_2026_9,0.85,18–29,Normal,,advanced,Advanced,5,muscle_gain,M,7.5
+P08,Week_2025_46,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7.31
+P08,Week_2025_47,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2025_48,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2025_49,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2025_50,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2025_51,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2025_52,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_1,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_10,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_11,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_12,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_13,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_14,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_15,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_16,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_17,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_18,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_19,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_2,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_20,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_21,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_22,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_23,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_24,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_25,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_26,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_27,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_28,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_29,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_3,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_30,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_31,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_32,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_33,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_34,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_35,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_36,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_37,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_38,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_39,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_4,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_40,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_41,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_42,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_43,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_44,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_45,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_46,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_47,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_5,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_6,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_7,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_8,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P08,Week_2026_9,0.62,18–29,Overweight,,beginner,Beginner,4,fat_loss,F,7
+P09,Week_2025_46,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,6.93
+P09,Week_2025_47,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2025_48,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2025_49,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2025_50,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2025_51,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2025_52,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_1,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_10,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_11,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_12,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_13,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_14,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_15,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_16,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_17,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_18,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_19,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_2,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_20,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_21,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_22,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_23,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_24,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_25,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_26,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_27,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_28,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_29,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_3,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_30,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_31,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_32,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_33,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_34,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_35,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_36,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_37,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_38,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_39,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_4,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_40,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_41,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_42,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_43,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_44,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_45,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_46,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_47,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_5,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_6,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_7,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_8,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P09,Week_2026_9,0.72,30–44,Normal,,intermediate,Intermediate,4,recomposition,M,7
+P10,Week_2025_46,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,6.9
+P10,Week_2025_47,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2025_48,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2025_49,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2025_50,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2025_51,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2025_52,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_1,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_10,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_11,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_12,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_13,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_14,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_15,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_16,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_17,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_18,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_19,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_2,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_20,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_21,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_22,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_23,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_24,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_25,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_26,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_27,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_28,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_29,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_3,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_30,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_31,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_32,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_33,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_34,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_35,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_36,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_37,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_38,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_39,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_4,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_40,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_41,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_42,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_43,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_44,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_45,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_46,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_47,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_5,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_6,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_7,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_8,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P10,Week_2026_9,0.58,30–44,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P11,Week_2025_46,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.25
+P11,Week_2025_47,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2025_48,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2025_49,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2025_50,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2025_51,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2025_52,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_1,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_10,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_11,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_12,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_13,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_14,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_15,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_16,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_17,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_18,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_19,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_2,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_20,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_21,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_22,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_23,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_24,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_25,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_26,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_27,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_28,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_29,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_3,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_30,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_31,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_32,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_33,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_34,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_35,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_36,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_37,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_38,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_39,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_4,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_40,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_41,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_42,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_43,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_44,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_45,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_46,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_47,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_5,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_6,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_7,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_8,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P11,Week_2026_9,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,M,6.5
+P12,Week_2025_46,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.73
+P12,Week_2025_47,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2025_48,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2025_49,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2025_50,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2025_51,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2025_52,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_1,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_10,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_11,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_12,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_13,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_14,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_15,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_16,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_17,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_18,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_19,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_2,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_20,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_21,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_22,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_23,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_24,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_25,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_26,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_27,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_28,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_29,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_3,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_30,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_31,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_32,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_33,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_34,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_35,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_36,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_37,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_38,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_39,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_4,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_40,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_41,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_42,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_43,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_44,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_45,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_46,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_47,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_5,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_6,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_7,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_8,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P12,Week_2026_9,0.8,30–44,Normal,,intermediate,Intermediate,5,muscle_gain,F,7.5
+P13,Week_2025_46,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.67
+P13,Week_2025_47,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2025_48,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2025_49,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2025_50,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2025_51,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2025_52,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_1,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_10,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_11,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_12,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_13,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_14,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_15,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_16,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_17,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_18,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_19,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_2,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_20,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_21,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_22,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_23,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_24,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_25,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_26,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_27,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_28,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_29,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_3,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_30,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_31,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_32,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_33,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_34,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_35,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_36,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_37,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_38,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_39,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_4,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_40,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_41,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_42,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_43,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_44,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_45,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_46,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_47,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_5,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_6,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_7,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_8,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P13,Week_2026_9,0.78,30–44,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P14,Week_2025_46,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7.08
+P14,Week_2025_47,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2025_48,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2025_49,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2025_50,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2025_51,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2025_52,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_1,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_10,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_11,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_12,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_13,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_14,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_15,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_16,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_17,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_18,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_19,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_2,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_20,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_21,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_22,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_23,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_24,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_25,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_26,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_27,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_28,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_29,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_3,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_30,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_31,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_32,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_33,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_34,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_35,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_36,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_37,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_38,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_39,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_4,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_40,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_41,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_42,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_43,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_44,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_45,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_46,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_47,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_5,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_6,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_7,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_8,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P14,Week_2026_9,0.75,30–44,Normal,,intermediate,Intermediate,4,recomposition,F,7
+P15,Week_2025_46,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7.37
+P15,Week_2025_47,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2025_48,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2025_49,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2025_50,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2025_51,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2025_52,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_1,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_10,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_11,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_12,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_13,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_14,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_15,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_16,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_17,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_18,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_19,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_2,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_20,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_21,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_22,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_23,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_24,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_25,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_26,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_27,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_28,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_29,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_3,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_30,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_31,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_32,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_33,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_34,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_35,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_36,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_37,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_38,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_39,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_4,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_40,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_41,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_42,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_43,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_44,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_45,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_46,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_47,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_5,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_6,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_7,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_8,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P15,Week_2026_9,0.65,30–44,Overweight,,intermediate,Intermediate,4,fat_loss,M,7
+P16,Week_2025_46,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.67
+P16,Week_2025_47,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2025_48,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2025_49,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2025_50,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2025_51,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2025_52,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_1,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_10,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_11,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_12,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_13,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_14,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_15,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_16,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_17,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_18,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_19,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_2,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_20,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_21,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_22,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_23,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_24,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_25,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_26,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_27,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_28,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_29,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_3,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_30,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_31,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_32,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_33,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_34,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_35,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_36,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_37,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_38,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_39,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_4,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_40,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_41,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_42,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_43,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_44,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_45,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_46,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_47,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_5,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_6,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_7,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_8,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P16,Week_2026_9,0.55,30–44,Obese I,,beginner,Beginner,4,fat_loss,F,6.5
+P17,Week_2025_46,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7.13
+P17,Week_2025_47,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2025_48,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2025_49,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2025_50,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2025_51,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2025_52,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_1,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_10,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_11,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_12,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_13,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_14,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_15,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_16,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_17,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_18,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_19,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_2,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_20,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_21,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_22,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_23,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_24,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_25,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_26,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_27,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_28,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_29,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_3,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_30,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_31,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_32,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_33,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_34,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_35,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_36,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_37,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_38,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_39,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_4,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_40,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_41,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_42,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_43,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_44,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_45,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_46,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_47,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_5,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_6,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_7,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_8,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P17,Week_2026_9,0.6,45–60,Overweight,,beginner,Beginner,3,recomposition,M,7
+P18,Week_2025_46,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.51
+P18,Week_2025_47,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2025_48,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2025_49,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2025_50,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2025_51,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2025_52,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_1,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_10,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_11,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_12,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_13,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_14,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_15,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_16,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_17,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_18,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_19,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_2,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_20,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_21,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_22,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_23,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_24,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_25,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_26,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_27,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_28,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_29,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_3,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_30,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_31,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_32,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_33,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_34,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_35,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_36,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_37,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_38,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_39,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_4,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_40,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_41,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_42,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_43,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_44,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_45,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_46,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_47,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_5,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_6,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_7,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_8,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P18,Week_2026_9,0.7,45–60,Normal,,beginner,Beginner,4,general_fitness,F,7.5
+P19,Week_2025_46,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.75
+P19,Week_2025_47,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2025_48,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2025_49,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2025_50,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2025_51,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2025_52,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_1,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_10,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_11,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_12,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_13,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_14,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_15,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_16,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_17,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_18,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_19,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_2,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_20,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_21,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_22,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_23,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_24,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_25,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_26,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_27,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_28,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_29,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_3,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_30,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_31,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_32,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_33,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_34,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_35,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_36,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_37,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_38,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_39,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_4,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_40,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_41,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_42,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_43,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_44,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_45,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_46,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_47,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_5,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_6,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_7,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_8,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P19,Week_2026_9,0.75,45–60,Normal,,intermediate,Intermediate,5,endurance,M,7.5
+P20,Week_2025_46,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,6.79
+P20,Week_2025_47,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2025_48,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2025_49,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2025_50,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2025_51,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2025_52,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_1,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_10,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_11,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_12,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_13,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_14,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_15,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_16,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_17,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_18,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_19,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_2,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_20,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_21,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_22,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_23,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_24,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_25,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_26,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_27,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_28,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_29,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_3,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_30,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_31,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_32,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_33,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_34,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_35,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_36,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_37,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_38,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_39,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_4,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_40,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_41,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_42,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_43,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_44,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_45,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_46,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_47,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_5,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_6,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_7,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_8,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P20,Week_2026_9,0.58,45–60,Overweight,,beginner,Beginner,3,fat_loss,F,7
+P21,Week_2025_46,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,6.7
+P21,Week_2025_47,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2025_48,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2025_49,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2025_50,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2025_51,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2025_52,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_1,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_10,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_11,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_12,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_13,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_14,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_15,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_16,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_17,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_18,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_19,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_2,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_20,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_21,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_22,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_23,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_24,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_25,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_26,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_27,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_28,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_29,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_3,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_30,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_31,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_32,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_33,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_34,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_35,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_36,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_37,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_38,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_39,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_4,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_40,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_41,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_42,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_43,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_44,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_45,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_46,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_47,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_5,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_6,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_7,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_8,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P21,Week_2026_9,0.78,45–60,Normal,,intermediate,Intermediate,4,muscle_gain,M,7
+P22,Week_2025_46,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.42
+P22,Week_2025_47,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2025_48,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2025_49,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2025_50,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2025_51,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2025_52,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_1,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_10,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_11,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_12,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_13,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_14,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_15,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_16,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_17,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_18,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_19,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_2,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_20,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_21,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_22,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_23,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_24,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_25,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_26,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_27,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_28,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_29,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_3,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_30,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_31,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_32,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_33,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_34,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_35,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_36,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_37,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_38,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_39,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_4,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_40,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_41,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_42,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_43,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_44,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_45,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_46,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_47,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_5,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_6,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_7,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_8,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P22,Week_2026_9,0.72,45–60,Normal,,intermediate,Intermediate,4,recomposition,F,7.5
+P23,Week_2025_46,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.59
+P23,Week_2025_47,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2025_48,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2025_49,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2025_50,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2025_51,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2025_52,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_1,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_10,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_11,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_12,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_13,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_14,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_15,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_16,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_17,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_18,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_19,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_2,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_20,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_21,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_22,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_23,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_24,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_25,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_26,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_27,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_28,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_29,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_3,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_30,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_31,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_32,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_33,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_34,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_35,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_36,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_37,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_38,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_39,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_4,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_40,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_41,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_42,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_43,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_44,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_45,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_46,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_47,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_5,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_6,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_7,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_8,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P23,Week_2026_9,0.52,45–60,Obese I,,beginner,Beginner,3,fat_loss,M,6.5
+P24,Week_2025_46,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7.31
+P24,Week_2025_47,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2025_48,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2025_49,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2025_50,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2025_51,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2025_52,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_1,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_10,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_11,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_12,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_13,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_14,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_15,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_16,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_17,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_18,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_19,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_2,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_20,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_21,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_22,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_23,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_24,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_25,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_26,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_27,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_28,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_29,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_3,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_30,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_31,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_32,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_33,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_34,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_35,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_36,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_37,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_38,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_39,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_4,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_40,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_41,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_42,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_43,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_44,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_45,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_46,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_47,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_5,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_6,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_7,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_8,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
+P24,Week_2026_9,0.76,45–60,Normal,,intermediate,Intermediate,4,general_fitness,F,7
